@@ -26,7 +26,8 @@ a=eval(input())
 n=int(input())
 ```
 ## Output:
-![image](https://github.com/srisrisaranya/Circulate-the-values-of-N-variables/assets/148516638/481b03cf-0314-4424-9b25-0734518da4ce)
+![image](https://github.com/srisrisaranya/Circulate-the-values-of-N-variables/assets/148516638/9d01a419-f6e4-498f-b8c7-a5ed5eb36086)
+
 
 
 ## Result:
